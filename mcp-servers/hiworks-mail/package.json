@@ -1,6 +1,6 @@
 {
   "name": "hiworks-mail-mcp-local",
-  "version": "1.0.12-local.2",
+  "version": "1.0.12-local.3",
   "description": "hiworks-mail-mcp 1.0.12 기반 로컬 수정본 (계정 정보 비노출, 첨부파일 조회/저장)",
   "private": true,
   "type": "module",

@@ -42,3 +42,6 @@ next-env.d.ts
 
 # 하이웍스 MCP 첨부파일 저장 폴더
 /downloads
+
+# Claude Code 개인 설정 (하이웍스 계정 등 비밀번호 포함 가능)
+.claude/settings.local.json
